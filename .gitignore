@@ -1,0 +1,10 @@
+venv/
+.venv/
+env/
+
+.idea/
+.DS_Store
+__pycache__/
+*.py[cod]
+
+kaggle.json
